@@ -6,7 +6,7 @@
 ![DAX](https://img.shields.io/badge/Analytics-DAX-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 📌 Project Overview
+## Project Overview
 
 The **PhonePe Transactions Analytics Dashboard** is a multi-page **Power BI Business Intelligence project** designed to analyze digital payment transactions across four major service categories: **Insurance, Loans, Money Transfer, and Recharge & Bills**.
 
@@ -18,7 +18,7 @@ The dashboard helps users understand **transaction volume, transaction value, pa
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Build a platform-wide transaction overview.
 - Analyze service-wise transaction value and volume.
@@ -31,7 +31,7 @@ The dashboard helps users understand **transaction volume, transaction value, pa
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool / Technology | Purpose |
 |---|---|
@@ -44,7 +44,7 @@ The dashboard helps users understand **transaction volume, transaction value, pa
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 The project uses a six-sheet Excel workbook containing **300,000 transactions** and **107,658 registered users**.
 
@@ -61,7 +61,7 @@ The dataset covers the **2024 calendar year** and contains transaction amount, s
 
 ---
 
-# 📸 Dashboard Screenshots
+# Dashboard Screenshots
 
 The screenshots below should be placed in the repository's `screenshots/` folder. They are intended to show the actual dashboard pages documented in the project report.
 
@@ -99,7 +99,7 @@ The Recharge & Bills page analyzes utility payment categories, payment success r
 
 ---
 
-## 📈 Key Dashboard Metrics
+## Key Dashboard Metrics
 
 The complete platform-level dashboard reports:
 
@@ -114,7 +114,7 @@ The complete platform-level dashboard reports:
 
 ---
 
-## 🏆 Service-wise Summary
+## Service-wise Summary
 
 | Service | Transactions | Total Amount | Success Rate |
 |---|---:|---:|---:|
@@ -133,7 +133,7 @@ The complete platform-level dashboard reports:
 
 ---
 
-## ❌ Payment Failure Analysis
+## Payment Failure Analysis
 
 There are **12,007 failed transactions** across the platform.
 
@@ -151,7 +151,7 @@ The analysis shows that **server-related failures and user-input-related failure
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 Six-Sheet Excel Dataset
@@ -177,7 +177,7 @@ Final Business Insights
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 The following preparation activities were performed:
 
@@ -192,7 +192,7 @@ The following preparation activities were performed:
 
 ---
 
-## 🧮 DAX Measures
+## DAX Measures
 
 The project uses DAX for dynamic KPI calculations.
 
@@ -246,7 +246,7 @@ These measures respond to the active filter context, allowing dashboard values t
 
 ---
 
-## 🎛️ Dashboard Interactivity
+## Dashboard Interactivity
 
 The dashboard contains:
 
@@ -262,7 +262,7 @@ Users can select a custom date range and navigate between service pages while th
 
 ---
 
-## 💡 Key Analytical Insights
+## Key Analytical Insights
 
 ### Loans — Highest Value
 
@@ -286,7 +286,7 @@ The dashboard provides month-wise transaction amount analysis to identify peaks,
 
 ---
 
-## 🧪 Testing & Validation
+## Testing & Validation
 
 The dashboard was tested against the source Excel data.
 
@@ -309,7 +309,7 @@ The source data contains **300,000 transactions**, including **287,993 successfu
 
 ---
 
-## 🎨 UI/UX Design
+## UI/UX Design
 
 The dashboard follows a consistent multi-page design.
 
@@ -328,7 +328,7 @@ This makes the dashboard easier to learn and navigate across all five pages.
 
 ---
 
-## ⚠️ Challenges & Solutions
+## Challenges & Solutions
 
 ### Challenge 1 — Multiple Related Sheets
 
@@ -356,7 +356,7 @@ This makes the dashboard easier to learn and navigate across all five pages.
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project strengthened practical skills in:
 
@@ -377,7 +377,7 @@ This project strengthened practical skills in:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Dataset is synthetically generated.
 - Analysis covers the services included in the provided dataset.
@@ -388,7 +388,7 @@ This project strengthened practical skills in:
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 
 Future versions can include:
 
@@ -405,7 +405,7 @@ Future versions can include:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 PhonePe-Transactions-Analytics/
@@ -434,7 +434,7 @@ PhonePe-Transactions-Analytics/
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 1. Install **Power BI Desktop**.
 2. Open `Phonepe_Dashboard.pbix`.
@@ -447,7 +447,7 @@ PhonePe-Transactions-Analytics/
 
 ---
 
-## 📄 Project Report
+## Project Report
 
 The complete project report contains:
 
@@ -473,7 +473,7 @@ The complete project report contains:
 
 ---
 
-## 🔐 Data Privacy & Usage
+## Data Privacy & Usage
 
 This project uses a **synthetically generated dataset** created for educational and portfolio purposes. It does not represent real PhonePe users or real PhonePe transaction records.
 
@@ -487,7 +487,7 @@ The project is intended for:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Rinku Kumar Sharma**
 
@@ -496,7 +496,7 @@ The project is intended for:
 
 ---
 
-## ⭐ Project Summary
+## Project Summary
 
 The **PhonePe Transactions Analytics Dashboard** demonstrates an end-to-end Business Intelligence workflow using a realistically structured 300,000-row transactional dataset.
 
